@@ -1,0 +1,21 @@
+ALUNO
+	email, nome completo, idade,  endereço, escola, preferencia de horario
+	preferencia de local, nivel de conhecimento
+
+INSTRUTOR
+	email, nome completo, função
+
+ADMNISTRADOR
+
+INSTITUIÇÃO
+
+SALA
+	
+TURMA ----- [[AULA]] horario, data (associada com a LISTA DE PRESENÇA)
+	ciclo, nivel
+
+LISTA DE PRESENÇA
+
+TRANSFERÊNCIA
+
+
